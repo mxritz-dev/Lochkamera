@@ -58,10 +58,10 @@ nav {
 
 hr {
     margin: 20px;
-    height: 7px;
-    background-color: lightslategray;
+    height: 5px;
+    background-color: gray;
     border: none;
-    border-radius: 5px;
+    border-radius: 3px;
 }
 .placeholder {
     height: 100px;
